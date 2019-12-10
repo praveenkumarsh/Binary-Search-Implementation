@@ -68,6 +68,6 @@ Then you can notice that There is large gap between two search time
 
 * **Praveen Kumar Sharma** - *Initial work* - [Praveen Kumar Sharma](https://github.com/Praveen101997)
 
-See also the list of [contributors](https://github.com/Praveen101997/doubtsolverportal/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/Praveen101997/Binary-Search-Implementation/contributors) who participated in this project.
 
 ## License
