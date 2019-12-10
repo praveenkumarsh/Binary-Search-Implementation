@@ -17,6 +17,7 @@ We have 4 tabs in our project->
 
 
 A.	Home Tab
+<br>
   •	Tab in which we are describing our project for what purpose this can be implemented.
 
 B.	Data Tab
