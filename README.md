@@ -21,17 +21,18 @@ A.	Home Tab
   •	Tab in which we are describing our project for what purpose this can be implemented.
 
 B.	Data Tab
-  •	To create our test Data.
-  •	In which we are generating our random data to use it as raw data in project.
+<br>
+  •	To create our test Data.<br>
+  •	In which we are generating our random data to use it as raw data in project.<br>
   •	The output data is of combination of serial no, Name, Username, Password.
 
-C.	Indices
+C.	Indices<br>
   •	Tab in which we will Index Our Data According to Name, UserName, Password respectively as per our requirement.
 
-D.	Query
-  •	In this tab we will test our project as per requirement
-  •	We calculate search time in Database searching 
-  i.	Before Indexing
+D.	Query<br>
+  •	In this tab we will test our project as per requirement<br>
+  •	We calculate search time in Database searching <br>
+  i.	Before Indexing<br>
   ii.	After Indexing
   
 ### Conclusion
